@@ -1,0 +1,14 @@
+# flake.nix
+{
+  inputs = {
+
+
+  };
+
+  outputs = {self, nixpkgs, ...}@inputs: {
+
+    };
+
+
+
+}
